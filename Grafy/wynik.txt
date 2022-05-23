@@ -1,0 +1,6 @@
+nr: 0 koszt: 0 sciezka: 
+nr: 1 koszt: 6 sciezka: 0 
+nr: 2 koszt: 59 sciezka: 0 1 3 
+nr: 3 koszt: 47 sciezka: 0 1 
+nr: 4 koszt: 84 sciezka: 0 1 3 2 5 
+nr: 5 koszt: 69 sciezka: 0 1 3 2 
